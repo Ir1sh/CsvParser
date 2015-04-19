@@ -1,3 +1,4 @@
 [0m[[0mdebug[0m] [0mCopy resource mappings: [0m
 [0m[[0mdebug[0m] [0m	(/Users/Mark/workspace/edu/parsers/CsvParser/src/main/resources/application.conf,/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/application.conf)[0m
 [0m[[0mdebug[0m] [0m	(/Users/Mark/workspace/edu/parsers/CsvParser/src/main/resources/CountryCode.csv,/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/CountryCode.csv)[0m
+[0m[[0mdebug[0m] [0m	(/Users/Mark/workspace/edu/parsers/CsvParser/src/main/resources/Gender.csv,/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Gender.csv)[0m
