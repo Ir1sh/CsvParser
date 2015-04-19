@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mCsvParserSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32m- should parse multiline strings[0m[0m
+[0m[[0minfo[0m] [0m[32m- should not fail when quotes are inside a field[0m[0m
+[0m[[0minfo[0m] [0m[32m- should parse line with tabular separator[0m[0m
+[0m[[0minfo[0m] [0m[32m- should parse line with default separator[0m[0m
+[0m[[0minfo[0m] [0m[32m- should correctly parse lines with escaped fields with delimiters[0m[0m

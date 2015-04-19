@@ -1,0 +1,18 @@
+[0m[[0minfo[0m] [0mRunning Main [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes[0m
+[0m[[0mdebug[0m] [0m	/Users/Mark/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/Mark/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/Mark/.ivy2/cache/org.parboiled/parboiled_2.11/jars/parboiled_2.11-2.1.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/Mark/.ivy2/cache/com.chuusai/shapeless_2.11/bundles/shapeless_2.11-2.1.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/Mark/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-3.0.0-RC3.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/Mark/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.6.4.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/Mark/.ivy2/cache/org.reactivestreams/reactive-streams/jars/reactive-streams-1.0.0.RC4.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/Mark/.ivy2/cache/org.slf4j/slf4j-nop/jars/slf4j-nop-1.6.4.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/Mark/.ivy2/cache/org.postgresql/postgresql/jars/postgresql-9.3-1102-jdbc4.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-4 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-4 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m

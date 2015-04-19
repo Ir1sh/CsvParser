@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/Mark/workspace/edu/parsers/CsvParser/src/test/resources/ratings-100k.csv,/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/test-classes/ratings-100k.csv)[0m
+[0m[[0mdebug[0m] [0m	(/Users/Mark/workspace/edu/parsers/CsvParser/src/test/resources/ratings-10k.csv,/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/test-classes/ratings-10k.csv)[0m
+[0m[[0mdebug[0m] [0m	(/Users/Mark/workspace/edu/parsers/CsvParser/src/test/resources/ratings-1k.csv,/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/test-classes/ratings-1k.csv)[0m
