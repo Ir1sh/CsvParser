@@ -11,8 +11,12 @@
 [0m[[0mdebug[0m] [0m	/Users/Mark/.ivy2/cache/org.reactivestreams/reactive-streams/jars/reactive-streams-1.0.0.RC4.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/Mark/.ivy2/cache/org.slf4j/slf4j-nop/jars/slf4j-nop-1.6.4.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/Mark/.ivy2/cache/org.postgresql/postgresql/jars/postgresql-9.3-1102-jdbc4.jar[0m
-[0m[[0mdebug[0m] [0mWaiting for thread run-main-4 to terminate.[0m
-[0m[[0mdebug[0m] [0m	Thread run-main-4 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-17 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-17 exited.[0m
 [0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mInterrupting thread ForkJoinPool-1-worker-3[0m
+[0m[[0mdebug[0m] [0m	Interrupted ForkJoinPool-1-worker-3[0m
+[0m[[0mdebug[0m] [0mInterrupting thread ForkJoinPool-1-worker-13[0m
+[0m[[0mdebug[0m] [0m	Interrupted ForkJoinPool-1-worker-13[0m
 [0m[[0mdebug[0m] [0mSandboxed run complete..[0m
 [0m[[0mdebug[0m] [0mExited with code 0[0m

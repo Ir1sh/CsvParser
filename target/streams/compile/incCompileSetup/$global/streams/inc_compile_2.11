@@ -19,35 +19,41 @@ name hashing:
 1 items
 0 -> true
 products:
-17 items
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main$$anonfun$1.class
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main$$anonfun$2.class
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main$$anonfun$3$$anonfun$apply$1.class
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main$$anonfun$3.class
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main$$anonfun$4.class
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main$$anonfun$5.class
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main$$anonfun$main$1.class
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main$$anonfun$main$2.class
+20 items
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main$.class
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main$Countries$$anonfun$$times$1.class
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main$Countries.class
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main$Country$.class
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main$Country.class
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main.class
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/parser/CsvParser.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/parser/CsvParser$$anonfun$parsed$1.class
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/parser/CsvParser.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/parser/CsvParser$.class
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/parser/CsvParser.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/parser/CsvParser.class
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries$$anonfun$1.class
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries$$anonfun$2.class
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries$$anonfun$3$$anonfun$4.class
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries$$anonfun$3$$anonfun$5$$anonfun$apply$1.class
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries$$anonfun$3$$anonfun$5.class
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries$$anonfun$3.class
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries$.class
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries$Countries$$anonfun$$times$1.class
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries$Countries.class
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries$Country$.class
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries$Country.class
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries$CountryParser$$anonfun$6.class
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries$CountryParser$$anonfun$7.class
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries$CountryParser$.class
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries.class
 binary dependencies:
-9 items
+12 items
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> /Users/Mark/.ivy2/cache/com.chuusai/shapeless_2.11/bundles/shapeless_2.11-2.1.0.jar
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> /Users/Mark/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-3.0.0-RC3.jar
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> /Users/Mark/.ivy2/cache/org.parboiled/parboiled_2.11/jars/parboiled_2.11-2.1.0.jar
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> /Users/Mark/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/parser/CsvParser.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/parser/CsvParser.scala -> /Users/Mark/.ivy2/cache/com.chuusai/shapeless_2.11/bundles/shapeless_2.11-2.1.0.jar
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/parser/CsvParser.scala -> /Users/Mark/.ivy2/cache/org.parboiled/parboiled_2.11/jars/parboiled_2.11-2.1.0.jar
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/parser/CsvParser.scala -> /Users/Mark/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> /Users/Mark/.ivy2/cache/com.chuusai/shapeless_2.11/bundles/shapeless_2.11-2.1.0.jar
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> /Users/Mark/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-3.0.0-RC3.jar
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> /Users/Mark/.ivy2/cache/org.parboiled/parboiled_2.11/jars/parboiled_2.11-2.1.0.jar
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> /Users/Mark/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -57,8 +63,9 @@ public inherited source dependencies:
 public inherited external dependencies:
 0 items
 member reference internal dependencies:
-1 items
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/parser/CsvParser.scala
+2 items
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/parser/CsvParser.scala
 member reference external dependencies:
 0 items
 inheritance internal dependencies:
@@ -66,178 +73,56 @@ inheritance internal dependencies:
 inheritance external dependencies:
 0 items
 class names:
-17 items
+20 items
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Main
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Main$
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Main$$anonfun$1
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Main$$anonfun$2
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Main$$anonfun$3
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Main$$anonfun$3$$anonfun$apply$1
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Main$$anonfun$4
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Main$$anonfun$5
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Main$$anonfun$main$1
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Main$$anonfun$main$2
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Main$Countries
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Main$Countries$$anonfun$$times$1
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Main$Country
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Main$Country$
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/parser/CsvParser.scala -> parser.CsvParser
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/parser/CsvParser.scala -> parser.CsvParser$
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/parser/CsvParser.scala -> parser.CsvParser$$anonfun$parsed$1
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> sources.countries.Countries
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> sources.countries.Countries$
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> sources.countries.Countries$$anonfun$1
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> sources.countries.Countries$$anonfun$2
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> sources.countries.Countries$$anonfun$3
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> sources.countries.Countries$$anonfun$3$$anonfun$4
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> sources.countries.Countries$$anonfun$3$$anonfun$5
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> sources.countries.Countries$$anonfun$3$$anonfun$5$$anonfun$apply$1
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> sources.countries.Countries$Countries
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> sources.countries.Countries$Countries$$anonfun$$times$1
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> sources.countries.Countries$Country
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> sources.countries.Countries$Country$
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> sources.countries.Countries$CountryParser$
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> sources.countries.Countries$CountryParser$$anonfun$6
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> sources.countries.Countries$CountryParser$$anonfun$7
 used names:
-320 items
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> !=
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> &&
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> +
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> ++=
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> <>
+352 items
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> <init>
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> ==
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> ?
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> AbstractFunction3
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> AnyRef
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Array
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> AutoInc
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Await
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> ClassTag
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Codec
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Console
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Countries
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Country
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> CsvParser
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> DBIO
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> CountryParser
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Database
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> DatabaseConfig
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> DeliveryScheme
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Duration
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> ExecutionContext
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Failure
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> ForeignKeyQuery
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Future
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Implicits
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Inf
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> InputStream
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Int
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> List
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Main
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> MappedProjection
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Nil
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> None
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> O
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Option
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Parser
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> ParserInput
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> PostgresDriver
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Predef
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> PrimaryKey
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Product
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> ProvenShape
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Rule
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> ScalaRunTime
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Seq
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Serializable
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Shape
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Source
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> String
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> StringContext
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Success
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Table
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> TableQuery
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Tag
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Try
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Tuple2
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Unit
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Unpack
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> Vector
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> _1
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> _2
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> __run
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> _hashCode
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> _toString
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> allSuppliers
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> anyToToShapedValue
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> api
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> apply
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> asInstanceOf
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> backend
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> canBuildFrom
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> close
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> collection
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> column
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> columnExtensionMethods
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> combinedAction
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> combinedFuture
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> clist
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> concurrent
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> countries
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> countriesInsertResult
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> countryCodes
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> db
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> driver
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> duration
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> eng
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> eq
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> fallbackSystemCodec
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> file
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> forConfig
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> foreach
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> fromInputStream
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> get
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> getClass
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> getResourceAsStream
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> global
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> id
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> immutable
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> insertAction
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> insertAndPrintAction
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> intColumnType
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> io
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> irl
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> isEmpty
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> isInstanceOf
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> iso
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> isoCode
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> java
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> lengthCompare
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> lifted
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> map
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> mappedProjectionShape
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> materializeClassTag
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> mkString
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> name
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> nm
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> numRows
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> optionShape
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> org
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> p
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> package
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> parboiled2
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> parser
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> println
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> proveShapeOf
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> queryInsertActionExtensionMethods
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> repColumnShape
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> result
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> run
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> runtime
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> s
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> save
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> scala
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> single
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> slick
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> stream
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> stringColumnType
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> support
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> tag
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> toList
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> toString
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> tuple3Shape
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> tupled
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> typedProductIterator
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> unapplySeq
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> unary_!
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> util
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> value
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> x
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> ||
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> sources
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/parser/CsvParser.scala -> !=
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/parser/CsvParser.scala -> &&
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/parser/CsvParser.scala -> +
@@ -406,29 +291,190 @@ used names:
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/parser/CsvParser.scala -> ||
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/parser/CsvParser.scala -> ~
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/parser/CsvParser.scala -> ~>
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> !=
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> &&
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> ++=
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> <>
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> <init>
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> ==
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> ?
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> AbstractFunction3
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> AnyRef
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> AutoInc
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> Await
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> ClassTag
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> Codec
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> Countries
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> Country
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> CountryParser
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> CsvParser
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> DBIO
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> Database
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> DeliveryScheme
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> Duration
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> ExecutionContext
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> Failure
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> Future
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> Implicits
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> Inf
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> InputStream
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> Int
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> List
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> MTable
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> MappedProjection
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> Nil
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> None
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> O
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> Option
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> Parser
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> ParserInput
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> PostgresDriver
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> Predef
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> PrimaryKey
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> Product
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> ProvenShape
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> Rule
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> ScalaRunTime
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> Serializable
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> Shape
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> Source
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> String
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> StringContext
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> Success
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> Table
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> TableQuery
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> Tag
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> Try
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> Tuple2
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> Unit
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> Unpack
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> Vector
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> _1
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> _2
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> __run
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> _hashCode
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> _toString
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> anyToToShapedValue
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> api
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> apply
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> asInstanceOf
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> baseTableRow
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> c
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> canBuildFrom
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> close
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> column
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> columnExtensionMethods
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> concurrent
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> countries
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> countriesInsertResult
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> countryCodes
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> create
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> createIfNotExists
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> ct
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> db
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> driver
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> duration
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> eq
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> f
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> fallbackSystemCodec
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> file
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> flatMap
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> foreach
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> fromInputStream
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> get
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> getClass
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> getResourceAsStream
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> getTables
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> global
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> id
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> immutable
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> insertAction
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> insertAndPrintAction
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> intColumnType
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> io
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> isEmpty
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> isInstanceOf
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> iso
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> isoCode
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> java
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> jdbc
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> lengthCompare
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> lifted
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> map
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> mappedProjectionShape
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> materializeClassTag
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> meta
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> mkString
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> name
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> nm
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> numRows
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> optionShape
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> org
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> p
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> package
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> parboiled2
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> parser
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> println
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> proveShapeOf
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> queryInsertActionExtensionMethods
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> repColumnShape
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> result
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> run
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> runtime
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> s
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> scala
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> schema
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> schemaActionExtensionMethods
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> seq
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> setUpFuture
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> single
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> slick
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> sources
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> stream
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> stringColumnType
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> support
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> tableName
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> tableQueryToTableQueryExtensionMethods
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> tag
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> tail
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> toList
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> toString
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> tuple3Shape
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> tupled
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> typedProductIterator
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> unapplySeq
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> unary_!
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> util
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> value
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> x
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> ||
 product stamps:
-17 items
-/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main$$anonfun$1.class -> lastModified(1429450743000)
-/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main$$anonfun$2.class -> lastModified(1429450743000)
-/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main$$anonfun$3$$anonfun$apply$1.class -> lastModified(1429450743000)
-/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main$$anonfun$3.class -> lastModified(1429450743000)
-/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main$$anonfun$4.class -> lastModified(1429450743000)
-/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main$$anonfun$5.class -> lastModified(1429450743000)
-/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main$$anonfun$main$1.class -> lastModified(1429450743000)
-/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main$$anonfun$main$2.class -> lastModified(1429450743000)
-/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main$.class -> lastModified(1429450743000)
-/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main$Countries$$anonfun$$times$1.class -> lastModified(1429450743000)
-/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main$Countries.class -> lastModified(1429450743000)
-/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main$Country$.class -> lastModified(1429450743000)
-/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main$Country.class -> lastModified(1429450743000)
-/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main.class -> lastModified(1429450743000)
-/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/parser/CsvParser$$anonfun$parsed$1.class -> lastModified(1429369687000)
-/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/parser/CsvParser$.class -> lastModified(1429369687000)
-/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/parser/CsvParser.class -> lastModified(1429369687000)
+20 items
+/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main$.class -> lastModified(1429458704000)
+/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/Main.class -> lastModified(1429458704000)
+/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/parser/CsvParser$$anonfun$parsed$1.class -> lastModified(1429458704000)
+/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/parser/CsvParser$.class -> lastModified(1429458704000)
+/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/parser/CsvParser.class -> lastModified(1429458704000)
+/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries$$anonfun$1.class -> lastModified(1429458937000)
+/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries$$anonfun$2.class -> lastModified(1429458937000)
+/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries$$anonfun$3$$anonfun$4.class -> lastModified(1429458937000)
+/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries$$anonfun$3$$anonfun$5$$anonfun$apply$1.class -> lastModified(1429458937000)
+/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries$$anonfun$3$$anonfun$5.class -> lastModified(1429458937000)
+/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries$$anonfun$3.class -> lastModified(1429458937000)
+/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries$.class -> lastModified(1429458937000)
+/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries$Countries$$anonfun$$times$1.class -> lastModified(1429458937000)
+/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries$Countries.class -> lastModified(1429458937000)
+/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries$Country$.class -> lastModified(1429458937000)
+/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries$Country.class -> lastModified(1429458937000)
+/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries$CountryParser$$anonfun$6.class -> lastModified(1429458937000)
+/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries$CountryParser$$anonfun$7.class -> lastModified(1429458937000)
+/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries$CountryParser$.class -> lastModified(1429458937000)
+/Users/Mark/workspace/edu/parsers/CsvParser/target/scala-2.11/classes/sources/countries/Countries.class -> lastModified(1429458937000)
 source stamps:
-2 items
-/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> hash(75c6d9b14c1c59dbd0f3b38ff404f8b79ba80b43)
+3 items
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> hash(72842b306216d51ba1ada1b5ba8a365ed29784f4)
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/parser/CsvParser.scala -> hash(25896f4d47c3754d0a3526e05955b9ca106edecb)
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> hash(b4b2ea72c42b2889dad0ff1e561e5e5106816411)
 binary stamps:
 5 items
 /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1410998958000)
@@ -441,24 +487,28 @@ class names:
 /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
 /Users/Mark/.ivy2/cache/com.chuusai/shapeless_2.11/bundles/shapeless_2.11-2.1.0.jar -> shapeless.$colon$colon
 /Users/Mark/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-3.0.0-RC3.jar -> slick.profile.RelationalTableComponent
-/Users/Mark/.ivy2/cache/org.parboiled/parboiled_2.11/jars/parboiled_2.11-2.1.0.jar -> org.parboiled2.Rule$
+/Users/Mark/.ivy2/cache/org.parboiled/parboiled_2.11/jars/parboiled_2.11-2.1.0.jar -> org.parboiled2.ParserInput
 /Users/Mark/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> scala.runtime.AbstractFunction3
 internal apis:
-2 items
+3 items
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBc44cKAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAARnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJcBO2x0AAZub3RpZnlzcQB+AAx3GmALdAAHdW5hcHBseXNxAH4ADBYzklx0AAdjdXJyaWVkc3EAfgAMgheiiHQABG5hbWVzcQB+AAxtAwuXdAAEd2FpdHNxAH4ADCa5RbR0AAEqc3EAfgAMNVrugXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMCZWsZXQADSRhc0luc3RhbmNlT2ZzcQB+AAxhmtk2dAAMcHJvZHVjdEFyaXR5c3EAfgAMAvZ3FHQABmVxdWFsc3NxAH4ADFkXbKh0AAdDb3VudHJ5c3EAfgAMg2jpdnQAFGZvcmVpZ25LZXkkZGVmYXVsdCQ1c3EAfgAMCjFO13QAB2luZGV4ZXNzcQB+AAw63AsEdAAMYXNJbnN0YW5jZU9mc3EAfgAMwoHxBnQAEHRhYmxlQ29uc3RyYWludHNzcQB+AAwtS99ZdAAKZm9yZWlnbktleXNxAH4ADM0CI290AAxzeW5jaHJvbml6ZWRzcQB+AAzFElxadAANJGlzSW5zdGFuY2VPZnNxAH4ADLb7Azt0AAllbmNvZGVSZWZzcQB+AAwFjSeQdAAPYXBwbHkkZGVmYXVsdCQzc3EAfgAM6VW2yHQABnR1cGxlZHNxAH4ADGy/8bZ0AAtwcmltYXJ5S2V5c3NxAH4ADHzgeSZ0AAl0YWJsZU5vZGVzcQB+AAxZFdYKdAAIY2FuRXF1YWxzcQB+AAwgch6MdAAEbWFpbnNxAH4ADDWfQrB0AA10YWJsZVByb3ZpZGVyc3EAfgAMlIp3SnQADXByb2R1Y3RQcmVmaXhzcQB+AAx/n30ndAALZm9yZWlnbktleXNzcQB+AAzpKUU3dAAJbm90aWZ5QWxsc3EAfgAM2Rgbn3QAC3JlYWRSZXNvbHZlc3EAfgAMN2Mm73QACnByaW1hcnlLZXlzcQB+AAyG5Q5HdAAMaXNJbnN0YW5jZU9mc3EAfgAMU0VgxnQAEDxpbml0PiRkZWZhdWx0JDNzcQB+AAyHwfHVdAAUZm9yZWlnbktleSRkZWZhdWx0JDZzcQB+AAy0wlETdAAHaXNvQ29kZXNxAH4ADIgOHUR0AAljb3VudHJpZXNzcQB+AAzSkSDLdAAGPGluaXQ+c3EAfgAMLgS0anQAAmlkc3EAfgAM6DhsoHQACUNvdW50cmllc3NxAH4ADJDpiHp0AAVhcHBseXNxAH4ADNg4lbF0AApzY2hlbWFOYW1lc3EAfgAM2JZckXQACGNyZWF0ZV8qc3EAfgAM1oo9M3QACXRhYmxlTmFtZXNxAH4ADDHvl1p0AAh0YWJsZVRhZ3NxAH4ADP/F1510AAI9PXNxAH4ADMb65zJ0AAVjbG9uZXNxAH4ADItZh0V0AAZzdHJlYW1zcQB+AAzmY+Z+dAAGdG9Ob2Rlc3EAfgAMZE57X3QAE2NvbGxlY3RGaWVsZFN5bWJvbHNzcQB+AAz4m1SedAAQVGFibGVFbGVtZW50VHlwZXNxAH4ADM6HKox0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADBI86V10AARjb3B5c3EAfgAMC2lUi3QABE1haW5zcQB+AAxZ53iRdAAGY29sdW1uc3EAfgAMpxbwLnQACHRvU3RyaW5nc3EAfgAMYEz9L3QAD2luZGV4JGRlZmF1bHQkM3NxAH4ADCaCN/B0AAxjb3VudHJ5Q29kZXNzcQB+AAynmf7vdAACIT1zcQB+AAzEMBqGdAAIZ2V0Q2xhc3NzcQB+AAx8gDijdAAOY29weSRkZWZhdWx0JDFzcQB+AAzm4F70dAATdGFibGVJZGVudGl0eVN5bWJvbHNxAH4ADIhSOXh0AAJuZXNxAH4ADF5Y/uJ0AAFPc3EAfgAMk9zBzHQAAmVxc3EAfgAMuUxIZXQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADIw6UYV0AAIjI3NxAH4ADLX9Y4Z0AAhmaW5hbGl6ZXNxAH4ADBNMuRR0AAVpbmRleHNxAH4ADAeFXON0AA5wcm9kdWN0RWxlbWVudHNxAH4ADBQue/N0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AKN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4Ad3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AugFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ao0wACWluaGVyaXRlZHEAfgCjTAAHcGFyZW50c3EAfgCjeHEAfgDBc3EAfgC6AXVxAH4AngAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ApHEAfgCtdXEAfgCuAAAAAHNxAH4AsABxAH4AP3VxAH4AsgAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgDAdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AwHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4A3HVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AMl4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+ALV0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+ANBbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AMBzcQB+AM90AAVBcnJheXEAfgDVdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AM90AAZTdHJpbmdzcQB+ANNzcQB+ANZ1cQB+ANkAAAADc3EAfgDbdAAEamF2YXNxAH4A23QABGxhbmdxAH4A4HBzcQB+ALoBdXEAfgCeAAAAAHBzcQB+ALoBdXEAfgD0AAAAAnNxAH4Az3QABk9iamVjdHEAfgD4c3EAfgDPdAADQW55cQB+ANVwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFM0edX73VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEUvVXNlcnMvTWFyay93b3Jrc3BhY2UvZWR1L3BhcnNlcnMvQ3N2UGFyc2VyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR1xtmxTBxZ29Dzs4/0BPi3m6gLQw==
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBftFheAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPbjxQZ0AAZub3RpZnlzcQB+AAxOTUcbdAAEd2FpdHNxAH4ADGBKIyZ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMogLr93QABmVxdWFsc3NxAH4ADIt3LQh0AAxhc0luc3RhbmNlT2ZzcQB+AAxIJtIodAAMc3luY2hyb25pemVkc3EAfgAMEvrNp3QADSRpc0luc3RhbmNlT2ZzcQB+AAwgch6MdAAEbWFpbnNxAH4ADF0q7PN0AAlub3RpZnlBbGxzcQB+AAyoh3JZdAAMaXNJbnN0YW5jZU9mc3EAfgAMRUAxYXQAAj09c3EAfgAMMdillnQABWNsb25lc3EAfgAMC2lUi3QABE1haW5zcQB+AAwp2qJXdAAIdG9TdHJpbmdzcQB+AAwo3axNdAACIT1zcQB+AAz2jva6dAAIZ2V0Q2xhc3NzcQB+AAzTS0awdAACbmVzcQB+AAz/0aa8dAACZXFzcQB+AAx1h7yCdAACIyNzcQB+AAwM636fdAAIZmluYWxpemVzcQB+AAzU8EpHdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ACd1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AFgBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AX3NxAH4AWAF1cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFAAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXnQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF5zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHp1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBneHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBTdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBuWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBec3EAfgBtdAAFQXJyYXlxAH4Ac3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBtdAAGU3RyaW5nc3EAfgBxc3EAfgB0dXEAfgB3AAAAA3NxAH4AeXQABGphdmFzcQB+AHl0AARsYW5ncQB+AH5wc3EAfgBYAXVxAH4APAAAAABwc3EAfgBYAXVxAH4AkgAAAAJzcQB+AG10AAZPYmplY3RxAH4AlnNxAH4AbXQAA0FueXEAfgBzcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNJg03t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABFL1VzZXJzL01hcmsvd29ya3NwYWNlL2VkdS9wYXJzZXJzL0NzdlBhcnNlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUcoQrMGIW1RuhraG1uoo2XtKXhPQ=
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/parser/CsvParser.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDm8Dc0AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAJc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw+LpQn3QACXByZWRpY2F0ZXNxAH4AC08VzeR0ABNydWxlMkFjdGlvbk9wZXJhdG9yc3EAfgALvpTZUnQAFHN0cjJDaGFyUmFuZ2VTdXBwb3J0c3EAfgAL0BnsonQACmludDJOVGltZXNzcQB+AAsj33bmdAAMcmFuZ2UyTlRpbWVzc3EAfgAL/BTyLXQAFHJ1bGUyV2l0aFNlcGFyYXRlZEJ5c3EAfgALgcChs3QAAmNoc3EAfgAL7/4dlXQAA3N0cnNxAH4AC7O/+fZ0AAh2YWx1ZU1hcHVxAH4ACQAAAI5zcQB+AAtoyI5RdAADRU9Jc3EAfgALDtmeT3QACm5vbkVzY2FwZWRzcQB+AAtRSIS7dAAJbmFtZWRSdWxlc3EAfgALFn5diHQABm5vdGlmeXNxAH4AC7oDb190AANBTllzcQB+AAtw9+cJdAAKV0hJVEVTUEFDRXNxAH4ACz1BPrt0ABFfX21hdGNoTWFwV3JhcHBlZHNxAH4AC5+I5LB0ABJfX3JlZ2lzdGVyTWlzbWF0Y2hzcQB+AAv3/3T6dAAEdGVzdHNxAH4AC1MzTgl0ABVmb3JtYXRFcnJvciRkZWZhdWx0JDJzcQB+AAsHH1wodAAEZmFpbHNxAH4AC6h/YZ90ABZfX21hdGNoQW55T2YkZGVmYXVsdCQyc3EAfgALL1M4VHQACE1JU01BVENIc3EAfgALL9vD5XQAD3ByaW50U3RhY2tUcmFjZXNxAH4ACwq7P010ABNnZXRMb2NhbGl6ZWRNZXNzYWdlc3EAfgALNJImHnQABHdhaXRzcQB+AAsc9svOdAARX191cGRhdGVNYXhDdXJzb3JzcQB+AAswoFc8dAAOY29weSRkZWZhdWx0JDJzcQB+AAtu/qr2dAANJGFzSW5zdGFuY2VPZnNxAH4AC+hmp+J0AAxfX2VudGVyUXVpZXRzcQB+AAvcVFVndAAFdHJhY2VzcQB+AAuusubJdAAJX19hZHZhbmNlc3EAfgALqJl/MnQAB3ByZXBlbmRzcQB+AAsU7hRbdAAGRFFVT1RFc3EAfgAL1WtQ4HQADV9fZW50ZXJBdG9taWNzcQB+AAthFj1FdAAFZmllbGRzcQB+AAvlW8/UdAAMcnVuU3ViUGFyc2Vyc3EAfgALmIQNaHQADHByb2R1Y3RBcml0eXNxAH4AC5RFquJ0AAtzZXBhcmF0ZWRCeXNxAH4AC4jcbaF0AAZlcXVhbHNzcQB+AAvv8q7PdAAFX19ydW5zcQB+AAuHC+HmdAAHZ2V0TGluZXNxAH4AC17Tby10AApfX2J1YmJsZVVwc3EAfgALpK2ncXQAF19fbWF0Y2hTdHJpbmckZGVmYXVsdCQyc3EAfgAL8Z4n8HQABU1BVENIc3EAfgALNZZ7AXQAEGZpbGxJblN0YWNrVHJhY2VzcQB+AAv4/coTdAANX19tYXRjaFN0cmluZ3NxAH4ACz0ONa10AAVhbnlPZnNxAH4AC1KdiDF0AAdEUVVPVEUyc3EAfgALGCxCnXQACWluaXRDYXVzZXNxAH4ACzuXb6h0ABRfX21hdGNoU3RyaW5nV3JhcHBlZHNxAH4ACxkDW4d0ABZUcmFjaW5nQnViYmxlRXhjZXB0aW9uc3EAfgALnKn8sXQADGFzSW5zdGFuY2VPZnNxAH4ACw6k3uh0ABBDaGFyUmFuZ2VTdXBwb3J0c3EAfgALg4ozqHQABk5UaW1lc3NxAH4AC8Zm1YV0AANydW5zcQB+AAtRjwbndAAKX19oYXJkRmFpbHNxAH4ACxXob/90AAZwYXJzZWRzcQB+AAszkwfBdAAKdmFsdWVTdGFja3NxAH4AC0qJFgh0AARwdXNoc3EAfgALHpkBYnQAASZzcQB+AAv27Dh9dAAMc3luY2hyb25pemVkc3EAfgALX07jPXQADSRpc0luc3RhbmNlT2ZzcQB+AAvfYg0pdAATX19lbnRlck5vdFByZWRpY2F0ZXNxAH4ACzcxifV0AAhnZXRDYXVzZXNxAH4AC/4qDy90AAJ+PnNxAH4AC9O1YRt0ABJOT05fQ0FQVFVSSU5HX0NSTEZzcQB+AAu2q3EpdAAGU1BBQ0VTc3EAfgALpVg7ZnQACU1JU01BVENIMHNxAH4ACwEB5Yh0ABdfX21hdGNoTm9uZU9mJGRlZmF1bHQkMnNxAH4AC6PgL810AARydWxlc3EAfgALKi+CPHQACG9wdGlvbmFsc3EAfgALH3nlZnQADnNsaWNlQ2hhckFycmF5c3EAfgALZLjSm3QABXF1aWV0c3EAfgALzj8t9XQACl9fbWF0Y2hNYXBzcQB+AAspHcBpdAAQX19TdWJQYXJzZXJJbnB1dHNxAH4AC4Klm1F0AAhjYW5FcXVhbHNxAH4AC/PRJ210AANyb3dzcQB+AAtKiPBpdAAeX19tYXRjaFN0cmluZ1dyYXBwZWQkZGVmYXVsdCQyc3EAfgALJ72jHnQADXByb2R1Y3RQcmVmaXhzcQB+AAvP7/sOdAAhX19tYXRjaElnbm9yZUNhc2VTdHJpbmckZGVmYXVsdCQyc3EAfgALkQ7BXXQABmN1cnNvcnNxAH4AC6DAlU10AAlub3RpZnlBbGxzcQB+AAsOyfNhdAADVFhUc3EAfgALUSlrW3QABWZhaWxYc3EAfgALaQ2q5HQABGRyb3BzcQB+AAvrSrkqdAABLXNxAH4ACz7gKbF0AAxpc0luc3RhbmNlT2ZzcQB+AAtAsUD1dAAoX19tYXRjaElnbm9yZUNhc2VTdHJpbmdXcmFwcGVkJGRlZmF1bHQkMnNxAH4AC/4+OUN0AA1nZXRTdGFja1RyYWNlc3EAfgALVbvb1nQAFGdldFN0YWNrVHJhY2VFbGVtZW50c3EAfgALBRb3cHQADF9fbWF0Y2hBbnlPZnNxAH4AC0av+NV0AAlkZWxpbWV0ZXJzcQB+AAsAJxLbdAAKemVyb09yTW9yZXNxAH4AC0W32dd0AAZfX3B1c2hzcQB+AAuFFn0GdAAKY3Vyc29yQ2hhcnNxAH4AC6du8Y10AAY8aW5pdD5zcQB+AAtxSl09dAAPV2l0aFNlcGFyYXRlZEJ5c3EAfgALlK4Ko3QACmdldE1lc3NhZ2VzcQB+AAvgiy2YdAANX19tYXRjaE5vbmVPZnNxAH4AC/Yj1xN0AAZvZmZzZXRzcQB+AAvvfC0adAANc2V0U3RhY2tUcmFjZXNxAH4AC2zwJ6x0AAZhdG9taWNzcQB+AAt5M+XIdAALZm9ybWF0RXJyb3JzcQB+AAs2X+L4dAAGbm9uZU9mc3EAfgAL0nh4GHQADWdldFN1cHByZXNzZWRzcQB+AAsTzu+VdAACPT1zcQB+AAukNir6dAASZ2V0U3RhY2tUcmFjZURlcHRoc3EAfgALrA28uHQABWNsb25lc3EAfgALTzZh+XQADkFjdGlvbk9wZXJhdG9yc3EAfgALs7s82XQADWNvcHlTdGF0ZUZyb21zcQB+AAunb1bzdAAMX19leGl0QXRvbWljc3EAfgALNTXUAHQADWFkZFN1cHByZXNzZWRzcQB+AAsu66Q5dAALX19zYXZlU3RhdGVzcQB+AAvDj/z7dAAJQ3N2UGFyc2Vyc3EAfgAL6gBuA3QABXRpbWVzc3EAfgALcnBaSnQABENSTEZzcQB+AAtY8KwzdAAGJGluaXQkc3EAfgAL//Gp7nQABmRlbGltc3NxAH4ACwYkNrp0AA9ERUxJTUlURVJfVE9LRU5zcQB+AAvexCPLdAAKaWdub3JlQ2FzZXNxAH4AC7mLXYB0AARjb3B5c3EAfgALLG/dUXQACGNoYXJBdFJDc3EAfgALBzBiwXQACHRvU3RyaW5nc3EAfgALo+7upXQABGZpbGVzcQB+AAvbezbldAAOX19yZXN0b3JlU3RhdGVzcQB+AAssRr2mdAAGbGVuZ3Roc3EAfgALFAjPxXQAB2VzY2FwZWRzcQB+AAuEb4NWdAACIT1zcQB+AAv2akhgdAAGX3RyYWNlc3EAfgAL+5l1wXQACGdldENsYXNzc3EAfgAL8YAniHQADmNvcHkkZGVmYXVsdCQxc3EAfgAL3Ah5eHQAF19fbWF0Y2hJZ25vcmVDYXNlU3RyaW5nc3EAfgALHcTdxnQAC19fZXhpdFF1aWV0c3EAfgALuN+UZHQAB2NhcHR1cmVzcQB+AAu++jEYdAAeX19tYXRjaElnbm9yZUNhc2VTdHJpbmdXcmFwcGVkc3EAfgALoiRgl3QAAm5lc3EAfgAL3XVfd3QACGJ1YmJsZVVwc3EAfgAL4IqWqHQAC3NsaWNlU3RyaW5nc3EAfgALmkrscHQACGxhc3RDaGFyc3EAfgALYVdGInQAGWVycm9yVHJhY2VDb2xsZWN0aW9uTGltaXRzcQB+AAvmUOl3dAAFaW5wdXRzcQB+AAsBtmJldAACZXFzcQB+AAsv+vmPdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAL2T7qp3QACW9uZU9yTW9yZXNxAH4AC382xax0ABJfX2V4aXROb3RQcmVkaWNhdGVzcQB+AAvo0obIdAACIyNzcQB+AAtjSoK6dAARX19pbkVycm9yQW5hbHlzaXNzcQB+AAsMvNXwdAAIZmluYWxpemVzcQB+AAvNNJ4RdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAs+jmCSdAAIaGFzaENvZGVzcQB+AAtIu8YndAAGY2hhckF0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4BRXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAEHBhcnNlci5Dc3ZQYXJzZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAN0ACBzY2FsYS5hbm5vdGF0aW9uLmNvbXBpbGVUaW1lT25seXQAJ3NjYWxhLnJlZmxlY3QubWFjcm9zLmludGVybmFsLm1hY3JvSW1wbHQAGHNjYWxhLmFubm90YXRpb24udGFpbHJlY3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgFgAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgFFTAAJaW5oZXJpdGVkcQB+AUVMAAdwYXJlbnRzcQB+AUV4cQB+AWdzcQB+AWABdXEAfgFAAAAAAHBzcQB+AWABdXEAfgFAAAAAAHBzcQB+AWABdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAtzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgFmdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgFmc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgGAc3EAfgFzcQB+AXZzcQB+AXdzcQB+AXp1cQB+AX0AAAADc3EAfgF/dAAEamF2YXNxAH4Bf3QAAmlvcQB+AYRzcQB+AXN0AAdQcm9kdWN0cQB+AXlzcQB+AXN0AAZFcXVhbHNxAH4BeXNxAH4Bc3QABlBhcnNlcnNxAH4Bd3NxAH4BenVxAH4BfQAAAANzcQB+AX90AANvcmdzcQB+AX90AApwYXJib2lsZWQycQB+AYRzcQB+AXN0AAdSdWxlRFNMcQB+AZNzcQB+AXN0AA5SdWxlRFNMQWN0aW9uc3EAfgGTc3EAfgFzdAASUnVsZURTTENvbWJpbmF0b3JzcQB+AZNzcQB+AXN0AA1SdWxlRFNMQmFzaWNzcQB+AZNzcQB+AXN0AAZPYmplY3RzcQB+AXdzcQB+AXp1cQB+AX0AAAADc3EAfgF/cQB+AYpzcQB+AX90AARsYW5ncQB+AYRzcQB+AXN0AANBbnlxAH4BeXBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAGcGFyc2Vyc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFMzRJ5hnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AEUvVXNlcnMvTWFyay93b3Jrc3BhY2UvZWR1L3BhcnNlcnMvQ3N2UGFyc2VyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQliW9NR8N1TQo1JuBZVbnKEG7eyw==
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDm8Dc0AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAJc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw+LpQn3QACXByZWRpY2F0ZXNxAH4AC08VzeR0ABNydWxlMkFjdGlvbk9wZXJhdG9yc3EAfgALvpTZUnQAFHN0cjJDaGFyUmFuZ2VTdXBwb3J0c3EAfgAL0BnsonQACmludDJOVGltZXNzcQB+AAsj33bmdAAMcmFuZ2UyTlRpbWVzc3EAfgAL/BTyLXQAFHJ1bGUyV2l0aFNlcGFyYXRlZEJ5c3EAfgALgcChs3QAAmNoc3EAfgAL7/4dlXQAA3N0cnNxAH4AC7O/+fZ0AAh2YWx1ZU1hcHVxAH4ACQAAAI5zcQB+AAtoyI5RdAADRU9Jc3EAfgALDtmeT3QACm5vbkVzY2FwZWRzcQB+AAtRSIS7dAAJbmFtZWRSdWxlc3EAfgALFn5diHQABm5vdGlmeXNxAH4AC7oDb190AANBTllzcQB+AAtw9+cJdAAKV0hJVEVTUEFDRXNxAH4ACz1BPrt0ABFfX21hdGNoTWFwV3JhcHBlZHNxAH4AC5+I5LB0ABJfX3JlZ2lzdGVyTWlzbWF0Y2hzcQB+AAv3/3T6dAAEdGVzdHNxAH4AC1MzTgl0ABVmb3JtYXRFcnJvciRkZWZhdWx0JDJzcQB+AAsHH1wodAAEZmFpbHNxAH4AC6h/YZ90ABZfX21hdGNoQW55T2YkZGVmYXVsdCQyc3EAfgALL1M4VHQACE1JU01BVENIc3EAfgALL9vD5XQAD3ByaW50U3RhY2tUcmFjZXNxAH4ACwq7P010ABNnZXRMb2NhbGl6ZWRNZXNzYWdlc3EAfgALNJImHnQABHdhaXRzcQB+AAsc9svOdAARX191cGRhdGVNYXhDdXJzb3JzcQB+AAswoFc8dAAOY29weSRkZWZhdWx0JDJzcQB+AAtu/qr2dAANJGFzSW5zdGFuY2VPZnNxAH4AC+hmp+J0AAxfX2VudGVyUXVpZXRzcQB+AAvcVFVndAAFdHJhY2VzcQB+AAuusubJdAAJX19hZHZhbmNlc3EAfgALqJl/MnQAB3ByZXBlbmRzcQB+AAsU7hRbdAAGRFFVT1RFc3EAfgAL1WtQ4HQADV9fZW50ZXJBdG9taWNzcQB+AAthFj1FdAAFZmllbGRzcQB+AAvlW8/UdAAMcnVuU3ViUGFyc2Vyc3EAfgALmIQNaHQADHByb2R1Y3RBcml0eXNxAH4AC5RFquJ0AAtzZXBhcmF0ZWRCeXNxAH4AC4jcbaF0AAZlcXVhbHNzcQB+AAvv8q7PdAAFX19ydW5zcQB+AAuHC+HmdAAHZ2V0TGluZXNxAH4AC17Tby10AApfX2J1YmJsZVVwc3EAfgALpK2ncXQAF19fbWF0Y2hTdHJpbmckZGVmYXVsdCQyc3EAfgAL8Z4n8HQABU1BVENIc3EAfgALNZZ7AXQAEGZpbGxJblN0YWNrVHJhY2VzcQB+AAv4/coTdAANX19tYXRjaFN0cmluZ3NxAH4ACz0ONa10AAVhbnlPZnNxAH4AC1KdiDF0AAdEUVVPVEUyc3EAfgALGCxCnXQACWluaXRDYXVzZXNxAH4ACzuXb6h0ABRfX21hdGNoU3RyaW5nV3JhcHBlZHNxAH4ACxkDW4d0ABZUcmFjaW5nQnViYmxlRXhjZXB0aW9uc3EAfgALnKn8sXQADGFzSW5zdGFuY2VPZnNxAH4ACw6k3uh0ABBDaGFyUmFuZ2VTdXBwb3J0c3EAfgALg4ozqHQABk5UaW1lc3NxAH4AC8Zm1YV0AANydW5zcQB+AAtRjwbndAAKX19oYXJkRmFpbHNxAH4ACxXob/90AAZwYXJzZWRzcQB+AAszkwfBdAAKdmFsdWVTdGFja3NxAH4AC0qJFgh0AARwdXNoc3EAfgALHpkBYnQAASZzcQB+AAv27Dh9dAAMc3luY2hyb25pemVkc3EAfgALX07jPXQADSRpc0luc3RhbmNlT2ZzcQB+AAvfYg0pdAATX19lbnRlck5vdFByZWRpY2F0ZXNxAH4ACzcxifV0AAhnZXRDYXVzZXNxAH4AC/4qDy90AAJ+PnNxAH4AC9O1YRt0ABJOT05fQ0FQVFVSSU5HX0NSTEZzcQB+AAu2q3EpdAAGU1BBQ0VTc3EAfgALpVg7ZnQACU1JU01BVENIMHNxAH4ACwEB5Yh0ABdfX21hdGNoTm9uZU9mJGRlZmF1bHQkMnNxAH4AC6PgL810AARydWxlc3EAfgALKi+CPHQACG9wdGlvbmFsc3EAfgALH3nlZnQADnNsaWNlQ2hhckFycmF5c3EAfgALZLjSm3QABXF1aWV0c3EAfgALzj8t9XQACl9fbWF0Y2hNYXBzcQB+AAspHcBpdAAQX19TdWJQYXJzZXJJbnB1dHNxAH4AC4Klm1F0AAhjYW5FcXVhbHNxAH4AC/PRJ210AANyb3dzcQB+AAtKiPBpdAAeX19tYXRjaFN0cmluZ1dyYXBwZWQkZGVmYXVsdCQyc3EAfgALJ72jHnQADXByb2R1Y3RQcmVmaXhzcQB+AAvP7/sOdAAhX19tYXRjaElnbm9yZUNhc2VTdHJpbmckZGVmYXVsdCQyc3EAfgALkQ7BXXQABmN1cnNvcnNxAH4AC6DAlU10AAlub3RpZnlBbGxzcQB+AAsOyfNhdAADVFhUc3EAfgALUSlrW3QABWZhaWxYc3EAfgALaQ2q5HQABGRyb3BzcQB+AAvrSrkqdAABLXNxAH4ACz7gKbF0AAxpc0luc3RhbmNlT2ZzcQB+AAtAsUD1dAAoX19tYXRjaElnbm9yZUNhc2VTdHJpbmdXcmFwcGVkJGRlZmF1bHQkMnNxAH4AC/4+OUN0AA1nZXRTdGFja1RyYWNlc3EAfgALVbvb1nQAFGdldFN0YWNrVHJhY2VFbGVtZW50c3EAfgALBRb3cHQADF9fbWF0Y2hBbnlPZnNxAH4AC0av+NV0AAlkZWxpbWV0ZXJzcQB+AAsAJxLbdAAKemVyb09yTW9yZXNxAH4AC0W32dd0AAZfX3B1c2hzcQB+AAuFFn0GdAAKY3Vyc29yQ2hhcnNxAH4AC6du8Y10AAY8aW5pdD5zcQB+AAtxSl09dAAPV2l0aFNlcGFyYXRlZEJ5c3EAfgALlK4Ko3QACmdldE1lc3NhZ2VzcQB+AAvgiy2YdAANX19tYXRjaE5vbmVPZnNxAH4AC/Yj1xN0AAZvZmZzZXRzcQB+AAvvfC0adAANc2V0U3RhY2tUcmFjZXNxAH4AC2zwJ6x0AAZhdG9taWNzcQB+AAt5M+XIdAALZm9ybWF0RXJyb3JzcQB+AAs2X+L4dAAGbm9uZU9mc3EAfgAL0nh4GHQADWdldFN1cHByZXNzZWRzcQB+AAsTzu+VdAACPT1zcQB+AAukNir6dAASZ2V0U3RhY2tUcmFjZURlcHRoc3EAfgALrA28uHQABWNsb25lc3EAfgALTzZh+XQADkFjdGlvbk9wZXJhdG9yc3EAfgALs7s82XQADWNvcHlTdGF0ZUZyb21zcQB+AAunb1bzdAAMX19leGl0QXRvbWljc3EAfgALNTXUAHQADWFkZFN1cHByZXNzZWRzcQB+AAsu66Q5dAALX19zYXZlU3RhdGVzcQB+AAvDj/z7dAAJQ3N2UGFyc2Vyc3EAfgAL6gBuA3QABXRpbWVzc3EAfgALcnBaSnQABENSTEZzcQB+AAtY8KwzdAAGJGluaXQkc3EAfgAL//Gp7nQABmRlbGltc3NxAH4ACwYkNrp0AA9ERUxJTUlURVJfVE9LRU5zcQB+AAvexCPLdAAKaWdub3JlQ2FzZXNxAH4AC7mLXYB0AARjb3B5c3EAfgALLG/dUXQACGNoYXJBdFJDc3EAfgALBzBiwXQACHRvU3RyaW5nc3EAfgALo+7upXQABGZpbGVzcQB+AAvbezbldAAOX19yZXN0b3JlU3RhdGVzcQB+AAssRr2mdAAGbGVuZ3Roc3EAfgALFAjPxXQAB2VzY2FwZWRzcQB+AAuEb4NWdAACIT1zcQB+AAv2akhgdAAGX3RyYWNlc3EAfgAL+5l1wXQACGdldENsYXNzc3EAfgAL8YAniHQADmNvcHkkZGVmYXVsdCQxc3EAfgAL3Ah5eHQAF19fbWF0Y2hJZ25vcmVDYXNlU3RyaW5nc3EAfgALHcTdxnQAC19fZXhpdFF1aWV0c3EAfgALuN+UZHQAB2NhcHR1cmVzcQB+AAu++jEYdAAeX19tYXRjaElnbm9yZUNhc2VTdHJpbmdXcmFwcGVkc3EAfgALoiRgl3QAAm5lc3EAfgAL3XVfd3QACGJ1YmJsZVVwc3EAfgAL4IqWqHQAC3NsaWNlU3RyaW5nc3EAfgALmkrscHQACGxhc3RDaGFyc3EAfgALYVdGInQAGWVycm9yVHJhY2VDb2xsZWN0aW9uTGltaXRzcQB+AAvmUOl3dAAFaW5wdXRzcQB+AAsBtmJldAACZXFzcQB+AAsv+vmPdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAL2T7qp3QACW9uZU9yTW9yZXNxAH4AC382xax0ABJfX2V4aXROb3RQcmVkaWNhdGVzcQB+AAvo0obIdAACIyNzcQB+AAtjSoK6dAARX19pbkVycm9yQW5hbHlzaXNzcQB+AAsMvNXwdAAIZmluYWxpemVzcQB+AAvNNJ4RdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAs+jmCSdAAIaGFzaENvZGVzcQB+AAtIu8YndAAGY2hhckF0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4BRXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAEHBhcnNlci5Dc3ZQYXJzZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAN0ACBzY2FsYS5hbm5vdGF0aW9uLmNvbXBpbGVUaW1lT25seXQAJ3NjYWxhLnJlZmxlY3QubWFjcm9zLmludGVybmFsLm1hY3JvSW1wbHQAGHNjYWxhLmFubm90YXRpb24udGFpbHJlY3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgFgAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgFFTAAJaW5oZXJpdGVkcQB+AUVMAAdwYXJlbnRzcQB+AUV4cQB+AWdzcQB+AWABdXEAfgFAAAAAAHBzcQB+AWABdXEAfgFAAAAAAHBzcQB+AWABdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAtzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgFmdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgFmc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgGAc3EAfgFzcQB+AXZzcQB+AXdzcQB+AXp1cQB+AX0AAAADc3EAfgF/dAAEamF2YXNxAH4Bf3QAAmlvcQB+AYRzcQB+AXN0AAdQcm9kdWN0cQB+AXlzcQB+AXN0AAZFcXVhbHNxAH4BeXNxAH4Bc3QABlBhcnNlcnNxAH4Bd3NxAH4BenVxAH4BfQAAAANzcQB+AX90AANvcmdzcQB+AX90AApwYXJib2lsZWQycQB+AYRzcQB+AXN0AAdSdWxlRFNMcQB+AZNzcQB+AXN0AA5SdWxlRFNMQWN0aW9uc3EAfgGTc3EAfgFzdAASUnVsZURTTENvbWJpbmF0b3JzcQB+AZNzcQB+AXN0AA1SdWxlRFNMQmFzaWNzcQB+AZNzcQB+AXN0AAZPYmplY3RzcQB+AXdzcQB+AXp1cQB+AX0AAAADc3EAfgF/cQB+AYpzcQB+AX90AARsYW5ncQB+AYRzcQB+AXN0AANBbnlxAH4BeXBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAGcGFyc2Vyc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFM0mDTe3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AEUvVXNlcnMvTWFyay93b3Jrc3BhY2UvZWR1L3BhcnNlcnMvQ3N2UGFyc2VyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQliW9NR8N1TQo1JuBZVbnKEG7eyw==
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBkh6RfAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAR3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJ00LVF0AAZub3RpZnlzcQB+AAwF/poddAAHdW5hcHBseXNxAH4ADOWAsnt0AAdjdXJyaWVkc3EAfgAMzYsjpXQABG5hbWVzcQB+AAxnXEGwdAAEd2FpdHNxAH4ADI1WGKx0AAEqc3EAfgAM03QWA3QADmNvcHkkZGVmYXVsdCQyc3EAfgAMoDmE0nQADSRhc0luc3RhbmNlT2ZzcQB+AAwQatgEdAAMcHJvZHVjdEFyaXR5c3EAfgAMXu2so3QABmVxdWFsc3NxAH4ADMZh7zh0AAdDb3VudHJ5c3EAfgAMK/LC33QAFGZvcmVpZ25LZXkkZGVmYXVsdCQ1c3EAfgAMhpTB6XQAB2luZGV4ZXNzcQB+AAwPMBLKdAAMYXNJbnN0YW5jZU9mc3EAfgAM9/4lHnQAEHRhYmxlQ29uc3RyYWludHNzcQB+AAyx+3bidAADcnVuc3EAfgAMKU14j3QACmZvcmVpZ25LZXlzcQB+AAx9/ZfudAAMc3luY2hyb25pemVkc3EAfgAMn/xMJ3QADSRpc0luc3RhbmNlT2ZzcQB+AAyG84w6dAAJZW5jb2RlUmVmc3EAfgAMq31P33QAD2FwcGx5JGRlZmF1bHQkM3NxAH4ADILCDNV0AAZ0dXBsZWRzcQB+AAxulfCndAALcHJpbWFyeUtleXNzcQB+AAx0nybBdAANQ291bnRyeVBhcnNlcnNxAH4ADBYfUz50AAl0YWJsZU5vZGVzcQB+AAyHPi72dAAIY2FuRXF1YWxzcQB+AAwuMhKRdAANdGFibGVQcm92aWRlcnNxAH4ADOnOBFt0AA1wcm9kdWN0UHJlZml4c3EAfgAMzvVDjXQAC2ZvcmVpZ25LZXlzc3EAfgAMLe2mLXQACW5vdGlmeUFsbHNxAH4ADOLHX690AAtyZWFkUmVzb2x2ZXNxAH4ADLt5j4B0AApwcmltYXJ5S2V5c3EAfgAMMqkjXXQADGlzSW5zdGFuY2VPZnNxAH4ADAPhWS10ABA8aW5pdD4kZGVmYXVsdCQzc3EAfgAMN2O3CHQAFGZvcmVpZ25LZXkkZGVmYXVsdCQ2c3EAfgAM9Jb8rXQAB2lzb0NvZGVzcQB+AAz5AVU2dAAJY291bnRyaWVzc3EAfgAMmL3hr3QABjxpbml0PnNxAH4ADHJbcy50AAJpZHNxAH4ADGIACol0AAlDb3VudHJpZXNzcQB+AAwFcHzvdAAFYXBwbHlzcQB+AAz8wmTwdAAKc2NoZW1hTmFtZXNxAH4ADKYmeqF0AAhjcmVhdGVfKnNxAH4ADHUEvyB0AAl0YWJsZU5hbWVzcQB+AAyRAK/kdAAIdGFibGVUYWdzcQB+AAwjfmjVdAACPT1zcQB+AAycF1xedAAFY2xvbmVzcQB+AAw4Ru4jdAAGc3RyZWFtc3EAfgAMKc4EY3QABnRvTm9kZXNxAH4ADAOBz/h0ABNjb2xsZWN0RmllbGRTeW1ib2xzc3EAfgAMRbugr3QAEFRhYmxlRWxlbWVudFR5cGVzcQB+AAx+dPyedAAOY29weSRkZWZhdWx0JDNzcQB+AAwai7gudAAEY29weXNxAH4ADMNH7Ll0AAZjb2x1bW5zcQB+AAxIDVhadAAIdG9TdHJpbmdzcQB+AAyaPOyHdAAPaW5kZXgkZGVmYXVsdCQzc3EAfgAMSKMsdHQADGNvdW50cnlDb2Rlc3NxAH4ADDrc48p0AAIhPXNxAH4ADNeOemR0AAhnZXRDbGFzc3NxAH4ADJ1zzht0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADGsHh9h0AARzYXZlc3EAfgAMSaT6xnQAE3RhYmxlSWRlbnRpdHlTeW1ib2xzcQB+AAyES7wAdAACbmVzcQB+AAwIi8P/dAABT3NxAH4ADPz28oh0AAJlcXNxAH4ADM1iDBt0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAwN+RLDdAACIyNzcQB+AAxQnOg/dAAIZmluYWxpemVzcQB+AAxkmVAldAAFaW5kZXhzcQB+AAymFPbKdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzMNU9xdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCleHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAbc291cmNlcy5jb3VudHJpZXMuQ291bnRyaWVzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgC9AXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgClTAAJaW5oZXJpdGVkcQB+AKVMAAdwYXJlbnRzcQB+AKV4cQB+AMRzcQB+AL0BdXEAfgCgAAAAAHBzcQB+AL0BdXEAfgCgAAAAAHBzcQB+AL0BdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgDDdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgDDc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgDcdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDdc3EAfgDQdAADQW55c3EAfgDUc3EAfgDXdXEAfgDaAAAAAnNxAH4A3HQABXNjYWxhcQB+AONwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAEXNvdXJjZXMuY291bnRyaWVzc3EAfgDtdAAHc291cmNlc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNJkYfh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABFL1VzZXJzL01hcmsvd29ya3NwYWNlL2VkdS9wYXJzZXJzL0NzdlBhcnNlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUtLLqcsQrKIna0P8eVh5eUQaBZBE=
 external apis:
 0 items
 source infos:
-2 items
+3 items
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/Main.scala -> 
 AAAAAAAAAAA=
 /Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/parser/CsvParser.scala -> 
 AAAAAAAAAAA=
+/Users/Mark/workspace/edu/parsers/CsvParser/src/main/scala/sources/countries/Countries.scala -> 
+AAAAAAAAAAA=
 compilations:
-31 items
+51 items
 00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTGZk7Fp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9NYXJrL3dvcmtzcGFjZS9lZHUvcGFyc2Vycy9Dc3ZQYXJzZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
 01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTGZ1anR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9NYXJrL3dvcmtzcGFjZS9lZHUvcGFyc2Vycy9Dc3ZQYXJzZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
 02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTGcXBpV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9NYXJrL3dvcmtzcGFjZS9lZHUvcGFyc2Vycy9Dc3ZQYXJzZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
@@ -490,3 +540,23 @@ compilations:
 28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNHlFlt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9NYXJrL3dvcmtzcGFjZS9lZHUvcGFyc2Vycy9Dc3ZQYXJzZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
 29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNHmKAF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9NYXJrL3dvcmtzcGFjZS9lZHUvcGFyc2Vycy9Dc3ZQYXJzZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
 30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNHnV+91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9NYXJrL3dvcmtzcGFjZS9lZHUvcGFyc2Vycy9Dc3ZQYXJzZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNIT0/F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9NYXJrL3dvcmtzcGFjZS9lZHUvcGFyc2Vycy9Dc3ZQYXJzZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNIWhjR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9NYXJrL3dvcmtzcGFjZS9lZHUvcGFyc2Vycy9Dc3ZQYXJzZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+33 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNIYplV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9NYXJrL3dvcmtzcGFjZS9lZHUvcGFyc2Vycy9Dc3ZQYXJzZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+34 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNIZhIp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9NYXJrL3dvcmtzcGFjZS9lZHUvcGFyc2Vycy9Dc3ZQYXJzZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+35 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNIaIHl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9NYXJrL3dvcmtzcGFjZS9lZHUvcGFyc2Vycy9Dc3ZQYXJzZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+36 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNIenMJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9NYXJrL3dvcmtzcGFjZS9lZHUvcGFyc2Vycy9Dc3ZQYXJzZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+37 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNIfuNZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9NYXJrL3dvcmtzcGFjZS9lZHUvcGFyc2Vycy9Dc3ZQYXJzZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+38 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNIjOcp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9NYXJrL3dvcmtzcGFjZS9lZHUvcGFyc2Vycy9Dc3ZQYXJzZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+39 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNIkal91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9NYXJrL3dvcmtzcGFjZS9lZHUvcGFyc2Vycy9Dc3ZQYXJzZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+40 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNIlf091cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9NYXJrL3dvcmtzcGFjZS9lZHUvcGFyc2Vycy9Dc3ZQYXJzZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+41 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNIl/gV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9NYXJrL3dvcmtzcGFjZS9lZHUvcGFyc2Vycy9Dc3ZQYXJzZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+42 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNImOCB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9NYXJrL3dvcmtzcGFjZS9lZHUvcGFyc2Vycy9Dc3ZQYXJzZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+43 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNIpNkR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9NYXJrL3dvcmtzcGFjZS9lZHUvcGFyc2Vycy9Dc3ZQYXJzZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+44 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNIr0y51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9NYXJrL3dvcmtzcGFjZS9lZHUvcGFyc2Vycy9Dc3ZQYXJzZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+45 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNJd2Yd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9NYXJrL3dvcmtzcGFjZS9lZHUvcGFyc2Vycy9Dc3ZQYXJzZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+46 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNJfeNl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9NYXJrL3dvcmtzcGFjZS9lZHUvcGFyc2Vycy9Dc3ZQYXJzZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+47 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNJg03t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9NYXJrL3dvcmtzcGFjZS9lZHUvcGFyc2Vycy9Dc3ZQYXJzZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+48 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNJh/PJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9NYXJrL3dvcmtzcGFjZS9lZHUvcGFyc2Vycy9Dc3ZQYXJzZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+49 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNJiv3d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9NYXJrL3dvcmtzcGFjZS9lZHUvcGFyc2Vycy9Dc3ZQYXJzZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+50 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTNJkYfh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9NYXJrL3dvcmtzcGFjZS9lZHUvcGFyc2Vycy9Dc3ZQYXJzZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

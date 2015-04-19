@@ -7,7 +7,7 @@
 		revision="1.0"
 		conf="runtime-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20150419145949"/>
+		date="20150419152700"/>
 	<dependencies>
 		<module organisation="org.postgresql" name="postgresql">
 			<revision name="9.3-1102-jdbc4" status="release" pubdate="20140718153830" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://jdbc.postgresql.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="8">
